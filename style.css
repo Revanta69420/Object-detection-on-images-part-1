@@ -1,0 +1,9 @@
+.heading {
+width: 100%;
+margin-top: 0px;
+}
+#button_1 {
+border-radius: 40px;
+background-color: white;
+text-align: center;
+}
